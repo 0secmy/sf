@@ -1,0 +1,44 @@
+#分布式版本控制系统(git)源码泄漏
+.git
+README.MD
+.gitignore
+#集中式版本控制系统(svn)源码泄漏
+.svn
+#VIM编辑器
+#备份文件 :
+*.*~
+#异常退出备份文件 :
+.*.*.swp
+.*.*.swo
+.*.*.swn
+.*.*.swm
+.*.*.swl
+#日志文件 :
+_viminfo
+.viminfo
+#Emacs编辑器
+*.*~
+*.*~1~
+*.*~2~
+*.*~3~
+#nano编辑器
+*.*.save
+*.*.save1
+*.*.save2
+*.*.save3
+#Editplus编辑器
+*.*.bak_Edietplus
+#其他编辑器
+*.*.bak
+*.*.back
+#开发人员测试失误遗留文件
+phpinfo.php
+test.php
+#Bash命令历史记录
+?.bash_history
+#网站备份压缩
+?.rar
+?.zip
+?.7z
+?.tar.gz
+?.bak
