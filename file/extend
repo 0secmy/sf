@@ -29,3 +29,5 @@ test.php
 ?.7z
 ?.tar.gz
 ?.bak
+?.xml
+?.properties
